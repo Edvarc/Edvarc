@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Helloo
 tests
-Initial commit (šo iekš uzd. prasīja ierakstīt te)
+Edvarts testē - šo ierakstu iekš Studio
