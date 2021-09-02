@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Helloo
 tests
-Šo teikumu ierakstīju caur Visual Studio un tam jāparādās iekš GitHuba
+Initial commit (šo iekš uzd. prasīja ierakstīt te)
