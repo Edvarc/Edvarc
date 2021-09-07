@@ -12,6 +12,8 @@ Helloo
 tests
 Edvarts testē - šo ierakstu iekš Studio
 
+tests 7 sept 
+
 Int16.Parse("100"); // returns 100
 Int16.Parse("(100)", NumberStyles.AllowParentheses); // returns -100
 
