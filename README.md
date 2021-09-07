@@ -14,4 +14,4 @@ Edvarts testē - šo ierakstu iekš Studio
 
 tests 7 sept 
 
-Console.WriteLine(string "ābols")
+Console.ReadLine(string "ābols")
