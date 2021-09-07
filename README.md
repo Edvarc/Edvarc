@@ -13,5 +13,7 @@ tests
 Edvarts testē - šo ierakstu iekš Studio
 
 tests 7 sept 
-
-Console.ReadLine(string "ābols")
+//print lines on console
+      Console.WriteLine("Hello, World!");
+      //Reads the next line of characters from the standard input stream.Most common use is to pause program execution before clearing the console.
+      Console.ReadLine();
