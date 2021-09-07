@@ -11,3 +11,13 @@ You can click the Preview link to take a look at your changes.
 Helloo
 tests
 Edvarts testē - šo ierakstu iekš Studio
+
+Int16.Parse("100"); // returns 100
+Int16.Parse("(100)", NumberStyles.AllowParentheses); // returns -100
+
+int.Parse("30,000", NumberStyles.AllowThousands, new CultureInfo("en-au"));// returns 30000
+int.Parse("$ 10000", NumberStyles.AllowCurrencySymbol); //returns 10000
+int.Parse("-100", NumberStyles.AllowLeadingSign); // returns -100
+int.Parse(" 100 ", NumberStyles.AllowLeadingWhite | NumberStyles.AllowTrailingWhite); // returns 100
+
+Int64.Parse("2147483649"); // returns 2147483649
