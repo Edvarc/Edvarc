@@ -14,12 +14,4 @@ Edvarts testē - šo ierakstu iekš Studio
 
 tests 7 sept 
 
-Int16.Parse("100"); // returns 100
-Int16.Parse("(100)", NumberStyles.AllowParentheses); // returns -100
-
-int.Parse("30,000", NumberStyles.AllowThousands, new CultureInfo("en-au"));// returns 30000
-int.Parse("$ 10000", NumberStyles.AllowCurrencySymbol); //returns 10000
-int.Parse("-100", NumberStyles.AllowLeadingSign); // returns -100
-int.Parse(" 100 ", NumberStyles.AllowLeadingWhite | NumberStyles.AllowTrailingWhite); // returns 100
-
-Int64.Parse("2147483649"); // returns 2147483649
+Console.WriteLine(string "ābols")
