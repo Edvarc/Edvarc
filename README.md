@@ -12,8 +12,14 @@ Helloo
 tests
 Edvarts testē - šo ierakstu iekš Studio
 
-tests 7 sept 
-//print lines on console
-      Console.WriteLine("Hello, World!");
-      //Reads the next line of characters from the standard input stream.Most common use is to pause program execution before clearing the console.
-      Console.ReadLine();
+tests 7 sept  
+
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");
