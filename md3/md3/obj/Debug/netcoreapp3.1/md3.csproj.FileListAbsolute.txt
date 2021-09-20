@@ -1,0 +1,10 @@
+C:\Users\Lietotajs\Desktop\Edvarts GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.csproj.AssemblyReference.cache
+C:\Users\Lietotajs\Desktop\Edvarts GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lietotajs\Desktop\Edvarts GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfoInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfo.cs
+C:\Users\Lietotajs\Desktop\Edvarts GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.csproj.CoreCompileInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.csproj.AssemblyReference.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfoInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfo.cs
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.csproj.CoreCompileInputs.cache
