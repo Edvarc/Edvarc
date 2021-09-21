@@ -24,10 +24,7 @@ namespace md3
 
           Console.WriteLine("Please, enter your Last Name: ");
           person.PublicLastName  = Console.ReadLine();  //lai lietotājs ievadītu savu uzvārdu
-
-
-           
-
+          
 
             Console.WriteLine("Please, enter your Birth Date (yyyy/mm/dd) : ");
             string PublicBirthDate = Console.ReadLine();  //lai lietotājs ievadītu savu dzimš. dat.
@@ -35,17 +32,15 @@ namespace md3
             DateTime PublicBirthDateParse = DateTime.Parse(PublicBirthDate, cultureinfo);                    
             Console.WriteLine(PublicBirthDateParse); //izdod ārā ievadīto dz. d. datumu   16/07/1987 00:00:00
 
+            DateTime localDate = DateTime.Now;
+            DateTime utcDate = DateTime.UtcNow;
+                            
+                Console.WriteLine("   Local date and time: {0}, {1:G}",
+                                  localDate.ToString(cultureinfo), localDate.Kind);
 
-
-
-
-
-
-
-
-            string PublicBirthDate2 = DateTime.UtcNow.ToString("MM-dd-yyyy");
-
-
+             var AgeofPerson = localDate - PublicBirthDateParse;
+            Console.WriteLine("Your age is: " + AgeofPerson);
+           
             Console.WriteLine("Please, enter your Hobby: ");
             person.PublicHobby = Console.ReadLine();  //lai lietotājs ievadītu savu hobiju
 
