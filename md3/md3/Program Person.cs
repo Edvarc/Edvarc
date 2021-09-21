@@ -38,9 +38,27 @@ namespace md3
                 Console.WriteLine("   Local date and time: {0}, {1:G}",
                                   localDate.ToString(cultureinfo), localDate.Kind);
 
-             var AgeofPerson = localDate - PublicBirthDateParse;
+             var AgeofPerson = (localDate - PublicBirthDateParse)/10000;
             Console.WriteLine("Your age is: " + AgeofPerson);
-           
+
+
+
+
+            // B variants vecuma aprēķināšanai
+
+
+            int now = int.Parse(DateTime.Now.ToString("yyyyMMdd"));
+
+            Console.WriteLine("Please, enter your Birth Date as a number (yyyymmdd) : ");
+            string BirthdayNumber = Console.ReadLine();
+            int BirthdayNumberParse = int.Parse(BirthdayNumber);
+            int Age3 = (now- BirthdayNumberParse) / 10000;
+
+            Console.WriteLine("Your age is: " + Age3);
+
+
+
+
             Console.WriteLine("Please, enter your Hobby: ");
             person.PublicHobby = Console.ReadLine();  //lai lietotājs ievadītu savu hobiju
 
