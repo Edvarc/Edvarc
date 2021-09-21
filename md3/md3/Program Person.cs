@@ -6,27 +6,56 @@ namespace md3
     {
         static void Main(string[] args)
         {
-                       
-                     
-          Console.WriteLine("Please, enter your First Name: ");
-          string PublicFirstName =  Console.ReadLine();  //lai lietotājs ievadītu savu vārdu
+
+
+
+            // Declaring an object of type MyClass.
+//MyClass mc = new MyClass();
+
+            //Declaring another object of the same type, assigning it the value of the first object.
+            //MyClass mc2 = mc;
+
+            Console.WriteLine("Please, enter your First Name: ");
+
+            Person person = new Person();
+            Person person2 = person;
+            // šīs divas augšējās rindas kaut kā sasaista Class Person ar šo Class Program un tad te zemāk vairs nav jāraksta lauku tips (string, bool utt.).
+            person.PublicFirstName  =  Console.ReadLine();  //lai lietotājs ievadītu savu vārdu
 
           Console.WriteLine("Please, enter your Last Name: ");
-          string PublicLasttName = Console.ReadLine();  //lai lietotājs ievadītu savu uzvārdu
+          person.PublicLastName  = Console.ReadLine();  //lai lietotājs ievadītu savu uzvārdu
 
-            Console.WriteLine("Please, enter your Birth Date (MM-DD-YYYY) : ");
-            string  PublicBirthDate = Console.ReadLine();  //lai lietotājs ievadītu savu dzimš. dat.
+
+           
+
+
+            Console.WriteLine("Please, enter your Birth Date (yyyy/mm/dd) : ");
+            string PublicBirthDate = Console.ReadLine();  //lai lietotājs ievadītu savu dzimš. dat.
+            System.Globalization.CultureInfo cultureinfo = new System.Globalization.CultureInfo("ja-JP");
+            DateTime PublicBirthDateParse = DateTime.Parse(PublicBirthDate, cultureinfo);                    
+            Console.WriteLine(PublicBirthDateParse); //izdod ārā ievadīto dz. d. datumu   16/07/1987 00:00:00
+
+
+
+
+
+
+
+
+
+            string PublicBirthDate2 = DateTime.UtcNow.ToString("MM-dd-yyyy");
+
 
             Console.WriteLine("Please, enter your Hobby: ");
-            string PublicHobby = Console.ReadLine();  //lai lietotājs ievadītu savu hobiju
+            person.PublicHobby = Console.ReadLine();  //lai lietotājs ievadītu savu hobiju
 
-            Console.WriteLine("Please, enter your Gender (male/ female) : ");
+            //Console.WriteLine("Please, enter your Gender (male/ female) : ");
 
-            string Gender = Console.ReadLine();  //lai lietotājs ievadītu savu dzimumu
-            bool IsMale = Gender = IsMale; /// ??? Kā lai piefiksē, vai ir vai nav vīrietis pēc lietāja ievadītā, piem., Male? ???
+           // person.PublicIsMale = Console.ReadLine();  //lai lietotājs ievadītu savu dzimumu
+            //person.IsMale = true; /// ??? Kā lai piefiksē, vai ir vai nav vīrietis pēc lietāja ievadītā, piem., Male? ???
 
-            string date = DateTime.UtcNow.ToString("MM-dd-yyyy");
-            Console.WriteLine("The current date is {0}", date);
+          //  string date = DateTime.UtcNow.ToString("MM-dd-yyyy");
+          //  Console.WriteLine("The current date is {0}", date);
 
 
             // Vārds, Uzvārds, dzimšanas datums, hobijs, dzimums.

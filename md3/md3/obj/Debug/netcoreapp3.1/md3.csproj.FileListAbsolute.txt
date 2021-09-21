@@ -8,3 +8,12 @@ C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.Ge
 C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfoInputs.cache
 C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.AssemblyInfo.cs
 C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.csproj.CoreCompileInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.exe
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.deps.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.runtimeconfig.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.runtimeconfig.dev.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.dll
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\bin\Debug\netcoreapp3.1\md3.pdb
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.dll
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.pdb
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\md3\md3\obj\Debug\netcoreapp3.1\md3.genruntimeconfig.cache
