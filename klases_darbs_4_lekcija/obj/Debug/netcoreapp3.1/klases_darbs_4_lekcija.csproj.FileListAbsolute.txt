@@ -1,0 +1,14 @@
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.csproj.AssemblyReference.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.AssemblyInfoInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.AssemblyInfo.cs
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.csproj.CoreCompileInputs.cache
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.exe
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.deps.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.runtimeconfig.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.runtimeconfig.dev.json
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.dll
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\bin\Debug\netcoreapp3.1\klases_darbs_4_lekcija.pdb
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.dll
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.pdb
+C:\Users\Lietotajs\Desktop\Edvarts_GitHub\klases_darbs_4_lekcija\obj\Debug\netcoreapp3.1\klases_darbs_4_lekcija.genruntimeconfig.cache
