@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace majasarb_nr4
+namespace majasdarb4_v5
 {
     class Program
     {
