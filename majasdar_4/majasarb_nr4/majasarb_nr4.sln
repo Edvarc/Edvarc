@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "md4", "md4.csproj", "{33570982-641B-4B8E-828B-54D370653A99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "majasarb_nr4", "majasarb_nr4.csproj", "{A5EFB74F-F487-497F-894C-F6A530C6E480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33570982-641B-4B8E-828B-54D370653A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33570982-641B-4B8E-828B-54D370653A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33570982-641B-4B8E-828B-54D370653A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33570982-641B-4B8E-828B-54D370653A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EFB74F-F487-497F-894C-F6A530C6E480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EFB74F-F487-497F-894C-F6A530C6E480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EFB74F-F487-497F-894C-F6A530C6E480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EFB74F-F487-497F-894C-F6A530C6E480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1DEE3909-F8B6-4A74-8022-0054E39193CE}
+		SolutionGuid = {A54AFFE0-7F67-42F8-BEC7-16C0D0F7609A}
 	EndGlobalSection
 EndGlobal

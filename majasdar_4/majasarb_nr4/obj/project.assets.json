@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\md4\\md4.csproj",
-      "projectName": "md4",
-      "projectPath": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\md4\\md4.csproj",
+      "projectUniqueName": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\majasdar_4\\majasarb_nr4\\majasarb_nr4.csproj",
+      "projectName": "majasarb_nr4",
+      "projectPath": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\majasdar_4\\majasarb_nr4\\majasarb_nr4.csproj",
       "packagesPath": "C:\\Users\\Lietotajs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\md4\\obj\\",
+      "outputPath": "C:\\Users\\Lietotajs\\Desktop\\Edvarts_GitHub\\majasdar_4\\majasarb_nr4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lietotajs\\AppData\\Roaming\\NuGet\\NuGet.Config",
